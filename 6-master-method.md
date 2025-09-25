@@ -15,7 +15,7 @@ $$ T(N) = aT(\frac{n}{b}) + f(n) $$
 
 Let's extract the variables:
 
-- $$ a \geq 1 $$
+- $ a \geq 1 $
 - $ b > 1 $
 - $ f(n) $: an **asymptotically positive** function
 
