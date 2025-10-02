@@ -1,5 +1,7 @@
 # Reading 8 - Quick Sort
 
+_By: Alexander Anthis on October 2, 2025)
+
 Tasks:
 
 - 7.1: Understand the general principle of how D&C is being applied to QS
