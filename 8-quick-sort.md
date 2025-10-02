@@ -1,6 +1,6 @@
 # Reading 8 - Quick Sort
 
-_By: Alexander Anthis on October 2, 2025)
+_By: Alexander Anthis on October 2nd, 2025_
 
 Tasks:
 
