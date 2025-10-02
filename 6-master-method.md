@@ -42,6 +42,7 @@ $$ n^{\log_3 9} $$
 $$ n^2 $$
 
 From there, we need to get the epsilon. To do that, we need to gather $f(n)$ and $n^{\log_b a}$:
+
 - $f(n) = n = n^1$
 - $n^{\log_b a} = n^2$
 
